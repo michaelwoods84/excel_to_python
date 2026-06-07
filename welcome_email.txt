@@ -1,0 +1,81 @@
+Subject: Your course is attached — here's how to get started
+
+Hi [First Name],
+
+Thank you for buying Excel to Python for Finance Professionals. Your six course notebooks are attached to this email as a ZIP file.
+
+Here's how to get started in under 5 minutes:
+
+──────────────────────────────────────
+RECOMMENDED: Run in Google Colab (no installation)
+──────────────────────────────────────
+
+The easiest setup — runs entirely in your browser, nothing to install.
+
+1. Unzip the download — you'll see six .ipynb files and a README
+2. Go to drive.google.com and create a folder called "Excel to Python Course"
+3. Drag all six .ipynb files into that folder
+4. Double-click module_01_why_python.ipynb
+   → Google will open it automatically in Colab
+5. Click Runtime → Run all
+
+That's it. All six notebooks will always be one click away from your Drive.
+
+All you need is a free Google account (which you almost certainly already have).
+
+
+──────────────────────────────────────
+ALTERNATIVE: Run locally (Anaconda)
+──────────────────────────────────────
+
+If you prefer to work offline or your company restricts Google Drive:
+
+1. Download and install Anaconda: https://www.anaconda.com/download
+2. Open a terminal and run: pip install openpyxl plotly
+3. Run: jupyter lab
+4. Open any .ipynb file from your unzipped course folder
+
+
+──────────────────────────────────────
+A NOTE ON CORPORATE LAPTOPS
+──────────────────────────────────────
+
+The Colab method (Google Drive) is the most reliable option if you're on a
+locked-down work machine — it runs in a browser tab and requires no software
+installation that IT might block.
+
+
+──────────────────────────────────────
+SUGGESTED PACE
+──────────────────────────────────────
+
+Each module takes around 1–2 hours to work through properly. I'd suggest:
+
+  Week 1  →  Modules 1 & 2  (foundation + Excel translation)
+  Week 2  →  Modules 3 & 4  (P&L model + DCF)
+  Week 3  →  Modules 5 & 6  (best practices + automation pipeline)
+
+But there's no schedule — work at whatever pace suits you.
+
+
+──────────────────────────────────────
+QUESTIONS?
+──────────────────────────────────────
+
+If you get stuck on anything, reply to this email. I aim to respond within
+48 hours.
+
+One ask: if you find the course useful, tell a colleague. Word of mouth from
+finance professionals is the only marketing this course has.
+
+Good luck — Module 6 (the automated reporting pipeline) is the one most
+people tell me pays for the course on its own.
+
+— [Your Name]
+Quantitative Analyst
+
+
+──────────────────────────────────────
+Excel to Python for Finance Professionals
+Personal use only · Do not redistribute
+──────────────────────────────────────
